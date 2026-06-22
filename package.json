@@ -1,0 +1,17 @@
+{
+  "name": "nodra-plugin-aws-icons",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official AWS architecture icons for Nodra (305, bundled as data-URLs).",
+  "scripts": {
+    "build": "node build-plugin.mjs ."
+  },
+  "devDependencies": {
+    "@iconify/react": "^5.0.2",
+    "@types/react": "^18.3.12",
+    "@xyflow/react": "^12.3.6",
+    "esbuild": "^0.25.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

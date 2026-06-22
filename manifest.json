@@ -1,0 +1,12 @@
+{
+  "id": "com.nodra.aws-icons",
+  "name": "AWS Icons",
+  "version": "1.0.0",
+  "api_version": "1.0.0",
+  "description": "Pack officiel d'icônes AWS (SVG haute fidélité).",
+  "author": "Nodra",
+  "permissions": ["blocks"],
+  "main": "index.ts",
+  "category": "blocks",
+  "keywords": ["aws", "cloud", "icons"]
+}
